@@ -1,6 +1,3 @@
-Here's an updated `README.md` based on the assignment description and the existing project details:
-
-```markdown
 # vRv Dashboard - Role-Based Access Control (RBAC) UI
 
 The **vRv Dashboard** is a user-friendly and dynamic web application designed to manage users, roles, and permissions. It allows administrators to effectively manage system activities, assign roles to users, and provide insights into system usage through interactive and responsive UI components.
@@ -9,11 +6,6 @@ The **vRv Dashboard** is a user-friendly and dynamic web application designed to
 
 ### **Objective**
 This project serves as a practical demonstration of building a **Role-Based Access Control (RBAC)** User Interface. The dashboard enables admins to manage users, roles, and permissions efficiently, ensuring secure and fine-grained access control.
-
-> **Note:**
-> This project implements an RBAC system where administrators can assign, edit, or remove roles and permissions, as well as manage users and monitor system statistics.
-
----
 
 ## **Key Features**
 
@@ -36,7 +28,6 @@ This project serves as a practical demonstration of building a **Role-Based Acce
   - Hover effects on cards to enhance user engagement.
   - Responsive design for seamless viewing on mobile, tablet, and desktop.
 
----
 
 ## **Technologies Used**
 
@@ -46,8 +37,6 @@ This project serves as a practical demonstration of building a **Role-Based Acce
 - **React Router DOM**: For handling navigation between different pages/components in the app.
 - **Local State Management**: React's built-in state management to handle dynamic content and interactivity.
   
----
-
 ## **Getting Started**
 
 ### **Prerequisites**
@@ -82,7 +71,6 @@ npm start
 
 Your application should now be running at [http://localhost:3000](http://localhost:3000).
 
----
 
 ## **File Structure**
 
@@ -101,8 +89,6 @@ Your application should now be running at [http://localhost:3000](http://localho
 └── README.md                  # Project documentation
 ```
 
----
-
 ## **Core Features & Components**
 
 - **User Management**: Interface to add, edit, delete, and manage users. Users can be assigned roles and statuses.
@@ -110,7 +96,6 @@ Your application should now be running at [http://localhost:3000](http://localho
 - **Profile Management**: Allow users to view and update their profiles, including personal information and settings.
 - **Dashboard Stats**: Show system activity in the form of interactive cards (Users, Roles, Active Sessions) with dynamic stats.
 
----
 
 ## **UI/UX Enhancements**
 
@@ -118,7 +103,6 @@ Your application should now be running at [http://localhost:3000](http://localho
 - **Hover Effects**: Scalable hover effects on interactive cards to enhance user engagement and experience.
 - **Smooth Transitions**: Transitions are implemented to ensure a fluid user experience when interacting with the app.
 
----
 
 ## **Customization**
 
@@ -128,7 +112,6 @@ You can easily modify the following aspects:
 - **Tailwind CSS Styles**: Modify or add new styles for better UI/UX based on your needs.
 - **Permissions & Roles**: Adjust the permissions and roles defined in the project to fit the requirements of your system.
 
----
 
 ## **Evaluation Criteria**
 
@@ -140,16 +123,4 @@ You can easily modify the following aspects:
 - **Security Practices**: Implementation of input validation, error handling, and ensuring secure operations.
 - **Additional Features (Bonus)**: Extra features such as sorting, filtering, and search functionalities.
 
----
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## **Conclusion**
-
-This **vRv Dashboard** provides a comprehensive and interactive way to manage users, roles, and permissions in a system, with a focus on usability, responsiveness, and security. It is a great tool for administrators and offers a smooth user experience through modern UI/UX practices.
-
----
